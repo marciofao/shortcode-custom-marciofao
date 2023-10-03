@@ -1,3 +1,3 @@
 #Custom Shortcodes by Marciofao
 
-Enables Shortcodes for users: [nome_usuario], [primeiro_nome_usuario], [sobrenome_usuario]
+Cria Shortcodes para o usuário: [nome_usuario], [primeiro_nome_usuario], [sobrenome_usuario]
