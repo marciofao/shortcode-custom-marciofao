@@ -7,6 +7,7 @@
  * Requires PHP:      7.2
  * Author:            Márcio Fão
  * Author URI:        https://marciofao.github.io/
+ * Plugin URI:        https://github.com/marciofao/shortcode-custom-marciofao
  * License:           GPL v2 or later
  */
 
