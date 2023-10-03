@@ -1,7 +1,7 @@
 <?php
 /*
  * Plugin Name: Shortcode custom Marciofao
- * Description:       Cria Shortcodes para o usuário: [nome_usuario], [primeiro_nome_usuario], [sobrenome_usuario]
+ * Description:       Enables Shortcodes for users: [nome_usuario], [primeiro_nome_usuario], [sobrenome_usuario]
  * Version:           1.0
  * Requires at least: 5.2
  * Requires PHP:      7.2
