@@ -1,4 +1,4 @@
-##Custom Shortcodes by Marciofao
+# Custom Shortcodes by Marciofao
 
 Plugin para Wordpress.
 
